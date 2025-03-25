@@ -1,0 +1,20 @@
+User ID: 2
+User ID: 2
+User ID: 2
+User ID: 2
+User ID: 2
+User ID: 2
+User ID: 2
+Cart Item Count: 1
+User ID: 2
+Cart Item Count: 1
+User ID: 2
+Cart Item Count: 1
+User ID: 2
+Cart Item Count: 1
+User ID: 2
+Cart Item Count: 1
+User ID: 2
+Cart Item Count: 2
+User ID: 2
+Cart Item Count: 3
